@@ -441,7 +441,7 @@ INSERT [dbo].[proveedor] ([idProveedor], [nombre], [direccion], [telefono], [cel
 GO
 INSERT [dbo].[proveedor] ([idProveedor], [nombre], [direccion], [telefono], [celular]) VALUES (N'496ee33b-846e-4304-9d2e-14a591c5efb9', N'Nintendo', N'Syllicon Valley #423', N'871147860', N'8115472915')
 GO
-INSERT [dbo].[proveedor] ([idProveedor], [nombre], [direccion], [telefono], [celular]) VALUES (N'1fc0e252-fd0c-4bc7-8bd7-15cb7ff1fbc9', N'Agua purificada Ciel', N'Col: Almaguer Beltr·n #332', N'81250468', N'810541920612')
+INSERT [dbo].[proveedor] ([idProveedor], [nombre], [direccion], [telefono], [celular]) VALUES (N'1fc0e252-fd0c-4bc7-8bd7-15cb7ff1fbc9', N'Agua purificada Ciel', N'Col: Almaguer Beltr√°n #332', N'81250468', N'810541920612')
 GO
 INSERT [dbo].[proveedor] ([idProveedor], [nombre], [direccion], [telefono], [celular]) VALUES (N'92ee5654-9bd4-48af-b9fe-1768d734e7dd', N'Microsoft', N'SylliconValey #444', N'8117165', N'81151472035')
 GO
